@@ -1,11 +1,5 @@
 {
   "type": "immersiveengineering:generator_fuel",
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "tfmg"
-    }
-  ],
   "fluidTag": "forge:tfmg:creosote",
   "burnTime": 20
 }

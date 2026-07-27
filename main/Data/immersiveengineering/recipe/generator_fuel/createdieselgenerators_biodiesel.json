@@ -1,11 +1,6 @@
 {
   "type": "immersiveengineering:generator_fuel",
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "createdieselgenerators"
-    }
-  ],
+
   "fluidTag": "forge:createadieselgenerator:biodiesel",
   "burnTime": 250
 }

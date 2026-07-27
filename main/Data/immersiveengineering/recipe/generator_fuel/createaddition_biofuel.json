@@ -1,11 +1,5 @@
 {
   "type": "immersiveengineering:generator_fuel",
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "createaddition"
-    }
-  ],
   "fluidTag": "forge:createadditions:biofuel",
   "burnTime": 125
 }
