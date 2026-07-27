@@ -1,0 +1,5 @@
+{
+  "type": "immersiveengineering:generator_fuel",
+  "fluidTag": "forge:createdieselgenerators_biodiesel",
+  "burnTime": 250
+}
