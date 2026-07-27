@@ -1,5 +1,5 @@
 {
   "type": "immersiveengineering:generator_fuel",
-  "fluidTag": "forge:tfmg:diesel",
+  "fluidTag": "forge:tfmg_diesel",
   "burnTime": 208
 }
