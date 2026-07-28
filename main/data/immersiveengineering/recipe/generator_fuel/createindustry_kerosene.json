@@ -1,5 +1,5 @@
 {
   "type": "immersiveengineering:generator_fuel",
-  "fluidTag": "forge:tfmg_diesel",
+  "fluidTag": "forge:createindustry_kerosene",
   "burnTime": 208
 }

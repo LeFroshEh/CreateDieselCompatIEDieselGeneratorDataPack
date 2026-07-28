@@ -1,7 +1,6 @@
 {
   "pack": {
-    "description": "Allows Create fuels to power IE diesel generator. ",
-    "pack_format": 48,
-    "supported_formats": [48, 57]
+    "description": "Allows Create fuels to power IE diesel generator.",
+    "pack_format": 9
   }
 }
